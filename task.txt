@@ -1,0 +1,16 @@
+REST - JSON
+
+1. GET /users -> it will list all the users.
+
+2. GET /users/id -> get the users with id. 
+
+3. POST /users -> it will create a new user.
+
+4. PATCH /users/id -> it will edit the user according to the user id.
+
+5. DELETE /users/id -> delete that particular user with that id.
+
+The data will me hardcoded in MOCK_DATA.json.
+
+we will build a hybrid server in which if a user go to the '/' route it will render a html docummets 
+    and if the user request on '/api/users' then, it will return a json api restfull data.

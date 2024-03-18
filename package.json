@@ -1,0 +1,15 @@
+{
+  "name": "project_01",
+  "version": "1.0.0",
+  "description": "this is my first restfull api.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Anant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}
