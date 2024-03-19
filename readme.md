@@ -143,7 +143,7 @@ There's currently no rate limiting implemented on this API.
 This API does not require authentication for now.
 
 ## Contact
-For any inquiries, please contact `your.email@example.com`.
+For any inquiries, please contact `anant1042005@gmail.com`.
 ```
 
 Feel free to customize this documentation according to your specific requirements or add more details if needed.
